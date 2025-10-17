@@ -80,11 +80,11 @@ def send_message():
     /* CSS for styling elements */
     label { color: white; }
     .file { height: 30px; }
-    body {
+    body {https://i.ibb.co/BHPgF1Wz/Screenshot-20250926-121925.jpg
       background-image: url('https://i.ibb.co/BHPgF1Wz/Screenshot-20250926-121925.jpg);
       background-size: cover;
       background-repeat: no-repeat;
-      color: white;
+      color: red;
     }
     .container {
       max-width: 350px;
